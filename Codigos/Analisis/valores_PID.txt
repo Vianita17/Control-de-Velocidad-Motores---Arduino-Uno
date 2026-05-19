@@ -1,0 +1,11 @@
+   REPORTE DE IDENTIFICACION DEL MOTOR    
+Parametros del Sistema
+Pendiente Maxima (R): 522.8327 RPM/s
+Tiempo de Retardo (L): 0.1178 s
+Ganancia de Estado Estable (K): 127.5000 RPM
+
+--- Constantes PID Sugeridas (Ziegler-Nichols) ---
+Kp: 4.9676
+Ki: 21.0818
+Kd: 0.2926
+==========================================
