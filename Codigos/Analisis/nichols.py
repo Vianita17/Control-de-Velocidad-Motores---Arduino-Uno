@@ -95,5 +95,5 @@ def SAVE_txt(kp, ki, kd, R, L, K, filename="valores_PID.txt"):
     except Exception as e:
         print(f"\n[ERROR] No se pudo guardar el archivo: {e}")
 
-archivo = r"C:\Users\Vp\Downloads\PROYECTO CONTROL\READ SERIAL\MOTOR2.csv"
+archivo = r"C:\...\MOTOR2.csv"
 sintonizar_pid(archivo, pwm_input=255)
